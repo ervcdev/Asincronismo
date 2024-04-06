@@ -1,0 +1,19 @@
+{
+  "name": "asincronismos",
+  "version": "1.0.0",
+  "description": "### sincrono  JS se ejecuta Tarea por Tarea, lo procesa en una sola tarea,",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Ervin castro perez",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
