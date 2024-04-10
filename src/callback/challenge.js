@@ -1,5 +1,4 @@
 const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-
 //llamado de la api, se coloca API en mayusculas para hacer referencia que es valor que no va a cambair dentro de los archivos, referencia del root
 const API = "https://api.escuelajs.co/api/v1";
 

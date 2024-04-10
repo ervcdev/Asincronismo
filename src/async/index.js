@@ -1,4 +1,4 @@
-//creando una promesa validar que sea correcta y luego haciendo el llamado de esta 
+//creando una promesa validar que sea correcta y luego haciendo el llamado de esta para ser utilizada
 //Promesa
 const fnAsync = () => {
     //con resolve y reject vamos a manejar el flujo

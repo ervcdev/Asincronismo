@@ -2,7 +2,7 @@
 import fetch from 'node-fetch';
 const API = "https://api.escuelajs.co/api/v1";
 
-
+//primero hace los llamados y luego la transformacion de los datos para luego retornar los datos
 async function fetchData(urlApi) {
     const response =  await fetch(urlApi); //
     const data = await response.json();
